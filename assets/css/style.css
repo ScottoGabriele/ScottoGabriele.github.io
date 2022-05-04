@@ -391,8 +391,8 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 24px;
   font-family: "Raleway", sans-serif;
 }
-#hero h3 span {
-  color: #03A64A;
+#hero h3 {
+  color: #ffffff;
   font-weight: bold;
   font-family: "Ubuntu", sans-serif;
 }
@@ -790,7 +790,7 @@ section {
   display: block;
   font-size: 13px;
   font-weight: 400;
-  color: #aaaaaa;
+  color: #3f3f3f;
 }
 .team .member .member-info p {
   font-style: italic;
